@@ -1,0 +1,15 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 18,
+  "description": "USDT is a stablecoin that mirrors the value of the US dollar. This version is for BSC testing purposes.",
+  "website": "https://tether.to",
+  "explorer": "https://bscscan.com/token/0x5aA16dDA628d25fFA95767F02de92145eA955c47",
+  "status": "active",
+  "id": "tether-usdt-bep20",
+  "tags": [
+    "stablecoin",
+    "usd-pegged",
+    "bep20"
+  ]
+}
